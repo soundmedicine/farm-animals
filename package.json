@@ -1,0 +1,25 @@
+{
+  "name": "farm-animals",
+  "version": "0.0.1",
+  "description": "build Express API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundmedicine/farm-animals.git"
+  },
+  "keywords": [
+    "farm"
+  ],
+  "author": "Roberto Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soundmedicine/farm-animals/issues"
+  },
+  "homepage": "https://github.com/soundmedicine/farm-animals#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
